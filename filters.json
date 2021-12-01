@@ -1,0 +1,39 @@
+{
+  "whitelist": [
+    "free",
+    "100% off"
+  ],
+  "blacklist": [
+    "shipping",
+    "+ free gift",
+    "demo",
+    "twitch prime",
+    "amazon prime",
+    "prime gaming",
+    "xbox",
+    "ps4",
+    "psn",
+    "playstation",
+    "nintendo",
+    "eshop",
+    "indiegala",
+    "indie gala",
+    "itch.io",
+    "itchio",
+    "vip",
+    "with",
+    "us only",
+    "japan only",
+    "weekend",
+    "buy",
+    "free to play",
+    "bundle",
+    "alienwarearena",
+    "microsoft",
+    "windows",
+    "Godankey",
+    "Games2Gether",
+    "stadia",
+	"oculus"
+  ]
+}
